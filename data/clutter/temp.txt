@@ -1,1 +1,6 @@
 
+ESA_WorldCover_10m_2021_V200_N39E027_Map.tif
+
+this file on disk was 72 Mb whereas github allows only up to 25 Mb
+
+So I could not upload it.
